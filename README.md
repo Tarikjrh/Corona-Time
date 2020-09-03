@@ -1,5 +1,6 @@
 # Corona-Time
 Corona Virus (Covid-19) Cases tracker.
+You can check iy out by going to corona-lb.web.app
 
 
 I build this web app using a API found in rapidapi.com.
